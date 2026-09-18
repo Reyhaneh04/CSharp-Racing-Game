@@ -10,7 +10,7 @@ The player controls a car and moves left or right to avoid enemy cars. The game 
 
 ## Preview
 
-![Racing Game](../game.png)
+![Racing Game](game.png)
 
 ## Features
 
